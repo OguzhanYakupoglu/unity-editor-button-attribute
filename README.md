@@ -11,7 +11,7 @@ A lightweight Unity Editor extension that lets you add clickable buttons for met
 
 ## Usage
 
-1. Add the `InspectorButton` folder to your project.
+1. Add the `Inspector Button Attribute` folder to your project.
 2. Decorate any parameterless method in your MonoBehaviour with `[Button]` or `[Button("Custom Label")]`.
 
 ```csharp
